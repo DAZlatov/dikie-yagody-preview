@@ -1,0 +1,46 @@
+{
+  "ezhevika": [
+    "./images/houses/ezhevika-1.jpg",
+    "./images/houses/ezhevika-2.jpg",
+    "./images/houses/ezhevika-3.jpg",
+    "./images/houses/ezhevika-4.jpg"
+  ],
+  "chernika": [
+    "./images/houses/chernika-1.jpg",
+    "./images/houses/chernika-2.png",
+    "./images/houses/chernika-3.png",
+    "./images/houses/chernika-4.jpg"
+  ],
+  "golubika": [
+    "./images/houses/golubika-1.png",
+    "./images/houses/golubika-2.png",
+    "./images/houses/golubika-3.png",
+    "./images/houses/golubika-4.jpg"
+  ],
+  "zemlyanika": [
+    "./images/houses/zemlyanika-1.jpg",
+    "./images/houses/zemlyanika-2.png",
+    "./images/houses/zemlyanika-3.png",
+    "./images/houses/zemlyanika-4.jpg"
+  ],
+  "brusnika": [
+    "./images/houses/brusnika-1.png",
+    "./images/houses/brusnika-2.png",
+    "./images/houses/brusnika-3.png",
+    "./images/houses/brusnika-4.jpg"
+  ],
+  "kalina": [
+    "./images/houses/kalina-1.jpg",
+    "./images/houses/kalina-2.png",
+    "./images/houses/kalina-3.png",
+    "./images/houses/kalina-4.jpg"
+  ],
+  "malina": [
+    "./images/houses/malina-1.png",
+    "./images/houses/malina-2.jpg",
+    "./images/houses/malina-3.jpg",
+    "./images/houses/malina-4.png",
+    "./images/houses/malina-5.png",
+    "./images/houses/malina-6.jpg"
+  ]
+}
